@@ -3,7 +3,7 @@
 
 #### Architecture
 
-![Architecture](images/service-discovery.jpg)
+![Architecture](images/service-discovery.JPG)
 
 #movie-info-service
 
@@ -70,7 +70,7 @@ http://localhost:8081/hystrix
 
 #### hystrix
 
-![hystrix](images/hystrix-dashboard.jpg)
+![hystrix](images/hystrix-dashboard.JPG)
 
 
 #### access hystrix-dashboard here
