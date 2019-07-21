@@ -5,7 +5,7 @@
 
 ![Architecture](images/service-discovery.JPG)
 
-#movie-info-service
+#### movie-info-service
 
 http://localhost:8082/movies/100
 
@@ -21,7 +21,7 @@ http://localhost:8082/movies/100
 ```
 
 
-#ratings-data-service
+#### ratings-data-service
 
 http://localhost:8083/ratingsdata/user/1
 
@@ -42,7 +42,7 @@ http://localhost:8083/ratingsdata/user/1
 }
 ```
 
-#movie-catalog-service
+#### movie-catalog-service
 http://localhost:8081/catalog/15
 
 --response:
@@ -64,7 +64,7 @@ http://localhost:8081/catalog/15
 
 ```
 
-#hystrix dashboard
+#### hystrix dashboard
 
 http://localhost:8081/hystrix
 
