@@ -74,4 +74,4 @@ http://localhost:8081/hystrix
 
 
 #### access hystrix-dashboard here
-http://localhost:8081:port/actuator/hystrix.stream
+http://localhost:8081/actuator/hystrix.stream
